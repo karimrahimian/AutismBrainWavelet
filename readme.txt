@@ -16,7 +16,6 @@ in the line 176.
 3- After downloading and extrating the feature that are long time consume process, running the model is easy. To run the model all of things that you need to do is the call Classifiy_Wavelet_For_Each_Site function from the Making_Model.py.
 The result will come out in the result directory so it is neccessary to create a new direcotry with result's name before running this script. 
 
-
 4- Finally to find the best model and draw some interset plot for each site, please run the Wavelet_Best.py and Analysis_Result_BoxPlot.py respectivly, the first script find the best model for each site based on the provided result in the third step and the second script draw interest plot from the output of the wavelet_best.py.
 
 
