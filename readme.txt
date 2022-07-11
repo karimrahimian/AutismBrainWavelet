@@ -1,3 +1,4 @@
+NEW!!!!!!7.11.2022
 This is the manuscript to produce the entire result of autism wavelet extractor model. 
 Threre are four main steps to run the script.
 1- Download From ABIDE
